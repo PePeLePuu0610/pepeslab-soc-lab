@@ -27,4 +27,6 @@ This repository contains the architecture, configuration, and detection logic fo
 ## 🛠️ How to Use This Repo
 1. Follow the `build/` guide to set up your virtual network.
 2. Run the simulation scripts in `scripts/` to generate telemetry.
-3. Ingest the logs into Splunk and apply the queries found in `detections/`.<img width="691" height="557" alt="image" src="https://github.com/user-attachments/assets/963992fe-da09-49a6-bc30-84c2e3ba630b" />
+3. Ingest the logs into Splunk and apply the queries found in `detections/`.
+##Continue Editing here
+<img width="691" height="557" alt="image" src="https://github.com/user-attachments/assets/963992fe-da09-49a6-bc30-84c2e3ba630b" />
